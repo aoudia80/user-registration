@@ -191,9 +191,9 @@ public class UserPersistenceController {
 //					}
 //
 //					// build the user instance
-//					user = new User(username, internalId, catrecId, clientId, email, cwsId, telephoneNumber, signinName,
-//							lastName, firstName, displayName, dealerId, companyId, businessCaseAccess, businessCaseReason,
-//							state, country, role, postalCode);
+					user = new User(username, internalId, catrecId, clientId, email, cwsId, telephoneNumber, signinName,
+							lastName, firstName, displayName, dealerId, companyId, businessCaseAccess, businessCaseReason,
+							state, country, role, postalCode);
 
 				}
 			}
